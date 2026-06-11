@@ -31,12 +31,12 @@ Open `NHITs_Global.ipynb` and run all cells:
 
 
 ### Scoring Metrics
-All metrics are computed on held-out seasons. Lower is better for all.
-WIS: Weighted Interval Score — interval calibration and sharpness 
-CRPS: Continuous Ranked Probability Score — full distributional accuracy 
-LogS: Log-Score — distributional shape, especially tails 
-MAE: Mean Absolute Error on the median forecast 
-RMSE: Root Mean Squared Error on the median forecast 
+* All metrics are computed on held-out seasons. Lower is better for all.
+* WIS: Weighted Interval Score — interval calibration and sharpness 
+* CRPS: Continuous Ranked Probability Score — full distributional accuracy 
+* LogS: Log-Score — distributional shape, especially tails 
+* MAE: Mean Absolute Error on the median forecast 
+* RMSE: Root Mean Squared Error on the median forecast 
 
 
 ### Test Mode
