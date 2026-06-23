@@ -42,7 +42,7 @@ Models were evaluated across the 2022–2023, 2023–2024, and 2024–2025 dengu
 
 * N-HiTS and PatchTST consistently outperformed the Bayesian baseline on probabilistic forecasting metrics.
 * N-HiTS was the most stable model across validation seasons.
-* A WIS-optimised ensemble achieved the strongest overall performance.
+* E2 WIS-optimised ensemble achieved the strongest overall performance.
 * The 2025–2026 forecast identified Goias, Minas Gerais, and Sao Paulo as the states with the highest projected dengue burden.
 
 
